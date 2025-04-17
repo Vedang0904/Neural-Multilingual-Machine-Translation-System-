@@ -26,9 +26,10 @@ Progress Monitoring: Uses interactive widgets for real-time feedback.
 How to Run
 Ensure you have Python 3 installed.
 Install the necessary packages:
-bash
-pip install transformers torch ipywidgets numpy pandas
-(Note: Choose either torch or tensorflow based on your model requirements.)
+
+    bash
+    pip install transformers torch ipywidgets numpy pandas
+    (Note: Choose either torch or tensorflow based on your model requirements.)
 
 Open NLP_PBL.ipynb in Jupyter Notebook or JupyterLab.
 Run the cells sequentially to execute the pipeline.
